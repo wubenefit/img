@@ -1,2 +1,2 @@
 # img
-Drawing_bed
+wuBenefit 图床
